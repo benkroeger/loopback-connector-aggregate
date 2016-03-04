@@ -1,0 +1,44 @@
+{
+  "name": "loopback-connector-aggregate",
+  "version": "0.0.0",
+  "description": "LoopBack connector that aggregates results from multiple sources",
+  "homepage": "",
+  "author": {
+    "name": "Benjamin Kroeger",
+    "email": "benjamin.kroeger@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "keywords": [
+    "loopback",
+    "connector",
+    "aggregate",
+    "multiple sources"
+  ],
+  "dependencies": {
+    "async": "^1.0.0",
+    "loopback-connector": "^2.2.0",
+    "oniyi-logger": "^0.4.0"
+  },
+  "devDependencies": {
+    "eslint": "1.10.3",
+    "eslint-config-oniyi": "1.1.2",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-exclude-gitignore": "^1.0.0",
+    "gulp-istanbul": "^0.10.3",
+    "gulp-mocha": "^2.0.0",
+    "gulp-plumber": "^1.0.0",
+    "gulp-nsp": "^2.1.0",
+    "gulp-coveralls": "^0.1.0"
+  },
+  "repository": "benkroeger/loopback-connector-aggregate",
+  "scripts": {
+    "prepublish": "gulp prepublish",
+    "test": "gulp"
+  },
+  "license": "Apache-2.0"
+}
