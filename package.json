@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-aggregate",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "LoopBack connector that aggregates results from multiple sources",
   "homepage": "",
   "author": {
