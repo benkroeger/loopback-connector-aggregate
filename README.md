@@ -1,19 +1,8 @@
 # loopback-connector-aggregate [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > LoopBack connector that aggregates results from multiple sources
 
-## Installation
+Development has been moved to a private project.
 
-```sh
-$ npm install --save loopback-connector-aggregate
-```
-
-## Usage
-
-```js
-var loopbackConnectorAggregate = require('loopback-connector-aggregate');
-
-loopbackConnectorAggregate('Rainbow');
-```
 ## License
 
 Apache-2.0 © [Benjamin Kroeger]()

@@ -5,8 +5,7 @@
   "homepage": "",
   "author": {
     "name": "Benjamin Kroeger",
-    "email": "benjamin.kroeger@gmail.com",
-    "url": ""
+    "email": "benjamin.kroeger@gmail.com"
   },
   "files": [
     "lib"
